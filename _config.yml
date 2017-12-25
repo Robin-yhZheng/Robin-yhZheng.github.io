@@ -1,0 +1,28 @@
+# Site settings
+title: 卓教授 
+email: jiajie_zhuo@163.com
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Sidebar settings
+description: Better to run than curse the road
+
+gems: [jekyll-paginate]
+
+paginate: 5
+paginate_path: "blog/page:num"
+
+#pagin
+paginate: 5
+# Social icons
+facebook: JiajieZhuo
+linkedin: JiajieZhuo
+github: 0lddriv3r
+deviantart: username
+codepen: username
+
+footer: © JiajieZhuo
+
+
+# Build settings
+markdown: kramdown
