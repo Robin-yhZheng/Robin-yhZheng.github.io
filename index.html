@@ -112,6 +112,27 @@
                     <li><a class="fa fa-2x fa-send" href="mailto:robin_yhzheng@126.com"><span class="description">MailMe</span></a></li>
                 </ul>
 
+
+
+
+
+                <div id="container"></div>
+                <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+                <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+                <script>
+                var gitment = new Gitment({
+                id: ZJS, 
+                owner: Robin-yhZheng,
+                repo: '存储评论的 repo',
+                oauth: {
+                  client_id: 443571ee9dc09a149d55,
+                  client_secret: 9625b5ab66f369b26fab259eeeae2a8bb79bcc26,
+                },
+                })
+                gitment.render('container')
+                </script>
+
+
                  <p class="copyright text-muted">
                     <h4>Copyright &copy; 鄭社長様 2017</h4>
                     <br>
