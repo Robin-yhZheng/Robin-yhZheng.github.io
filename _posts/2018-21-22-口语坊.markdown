@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "口语坊"
+date:   2018-01-04
+comments: true
+categories: X
+---
+
+
+
+
 # Are Movies good for us?
 Yes,most of movies factly present a positive connotation for us. In modern society, everyone grow up with movies.
 (example: Lion King,Forrest Gump，Nuovo cinema Paradiso)
